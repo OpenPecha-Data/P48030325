@@ -1,0 +1,29 @@
+id: P48030325
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG4273
+  instance_id: http://purl.bdrc.io/resource/IE1KG4273
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ནང་བསྟན་ཤེས་རིག་གི་མདུན་ལམ་གླེང་བའི་འབོལ་རྩོམ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P1KG4272
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    299730391c7341ebbc31f8fa4af5fee6:
+      title: པོད ༡་ནང་བསྟན་ཤེས་རིག་གི་མདུན་ལམ་གླེང་བའི་འབོལ་རྩོམ
+      volume_number: 1
+      base_file: UT1KG4273_I1KG4997_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA5E078CDE14CDB34
+      image_group: I1KG4997
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG4273
+  - http://purl.bdrc.io/resource/W1KG4273
+  ocr_software: Namsel
+created_at: '2021-12-22T10:40:05.294847'
+last_modified_at: '2021-12-22T10:40:05.294853'
